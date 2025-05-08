@@ -7,10 +7,6 @@ public class Test {
         System.out.println("==== Testando array de Strings ====");
 
         MyArray<String> arrayString = new MyArray<>(5);
-        ArrayList<String> test = new ArrayList<>();
-        test.add("3");
-        System.out.println("test ulitmo " + test.getLast());
-
 
         // Adicionando elementos
         arrayString.add("A");

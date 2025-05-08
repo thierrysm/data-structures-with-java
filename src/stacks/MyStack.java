@@ -1,6 +1,6 @@
 package stacks;
 
-import utils.StaticStructure;
+import staticStructure.StaticStructure;
 
 public class MyStack<T> extends StaticStructure<T> {
 

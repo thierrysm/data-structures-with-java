@@ -1,4 +1,4 @@
-package utils;
+package staticStructure;
 
 public class StaticStructure<T> {
     protected T[] elements;
