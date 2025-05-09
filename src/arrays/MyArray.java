@@ -3,6 +3,7 @@ package arrays;
 import java.util.NoSuchElementException;
 
 public class MyArray<T> {
+
     private T[] elements;
     private int size = 0;
 

@@ -1,6 +1,7 @@
 package stacks;
 
 public class Test {
+
     public static void main(String[] args) {
         MyStack<String> stack = new MyStack<>(5);
 

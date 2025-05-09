@@ -1,6 +1,7 @@
-package queues.priority;
+package priorityQueue;
 
 public class Test {
+
     public static void main(String[] args) {
         MyPriorityQueue<String> priorityQueue = new MyPriorityQueue<>(5);
 

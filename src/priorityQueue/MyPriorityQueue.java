@@ -1,4 +1,4 @@
-package queues.priority;
+package priorityQueue;
 
 import queues.MyQueue;
 

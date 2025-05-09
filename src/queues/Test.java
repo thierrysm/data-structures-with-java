@@ -1,6 +1,7 @@
 package queues;
 
 public class Test {
+
     public static void main(String[] args) {
         MyQueue<String> queue = new MyQueue<>(5);
 

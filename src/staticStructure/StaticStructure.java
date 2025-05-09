@@ -1,6 +1,7 @@
 package staticStructure;
 
 public class StaticStructure<T> {
+
     protected T[] elements;
     protected int size = 0;
 
